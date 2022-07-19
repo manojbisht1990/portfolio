@@ -5,8 +5,7 @@
 ### React Project
 
 Demostration of React Framework with public API. Features are :
-> Filter
-> Sorting
+> Filter, Sorting
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manojbisht1990/monster-api)
 
